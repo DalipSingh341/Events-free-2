@@ -1127,8 +1127,8 @@ footer ul li a:hover::after {
   .fs_sm_10px {
     font-size: 10px;
   }
-  .fs_sm_9px {
-    font-size: 9px;
+  .fs_sm_12px {
+    font-size: 12px;
   }
   .comment_btn {
     padding: 19px 9px;
@@ -1236,7 +1236,7 @@ footer ul li a:hover::after {
   }
   .flex_sm_column {
     flex-direction: column;
-  }
+      }
  
 }
 /* footer-media-query-end */
